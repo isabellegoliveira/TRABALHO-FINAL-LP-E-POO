@@ -1,5 +1,7 @@
 # TRABALHO-FINAL-LP-E-POO
 
+![Design sem nome](https://github.com/isabellegoliveira/TRABALHO-FINAL-LP-E-POO/assets/162385116/03714551-575f-4bd8-946f-fc413272be10)
+
 Sistema de Gestão - E-commerce de Skin Care
 Este projeto é um sistema de gestão para um e-commerce de produtos de skin care, desenvolvido em Java usando Swing para a interface gráfica. Ele permite aos usuários visualizar produtos, gerenciar um carrinho de compras, registrar clientes, e finalizar compras.
 
